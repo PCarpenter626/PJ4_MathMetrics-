@@ -45,9 +45,6 @@ https://www.tableau.com/
 
 # Step 6- Google Slides
 
-# Running the tests
-Explain how to run the automated tests for this system
-
 # Contributors
 - Students of DATA @ Adams Middle School in Grand Prairie, TX
 - Math Test writers of the Grand Prairie ISD
