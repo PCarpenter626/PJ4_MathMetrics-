@@ -1,0 +1,415 @@
+ID,Grade,Race,SPED,Q1_Raw_Score,Q1_%Corr,Q1_Met_Level,Q2_Raw_Score,Q2_%Corr,Q2_Met_Level,Q3_Raw_Score,Q3_%Corr,Q3_Met_Level
+559000,6,W,,10,100,Masters,29.0,67.0,Meets,28,70,Meets
+498514,7,W,,10,100,Masters,51.0,86.0,Masters,53,91,Masters
+503832,6,H,,10,100,Masters,34.0,79.0,Masters,24,60,Meets
+511476,6,H,,10,100,Masters,33.0,77.0,Meets,33,83,Masters
+501779,6,H,,13,100,Masters,35.0,81.0,Masters,34,85,Masters
+541764,6,H,,13,100,Masters,16.0,37.0,Appr,18,45,Appr
+508965,6,H,,13,100,Masters,30.0,70.0,Meets,31,78,Meets
+504733,6,H,,13,100,Masters,28.0,65.0,Meets,32,80,Masters
+498433,7,H,,10,100,Masters,50.0,85.0,Masters,47,81,Masters
+511321,7,H,,10,100,Masters,48.0,81.0,Masters,43,74,Masters
+500967,8,H,,10,100,Masters,29.0,60.0,Meets,27,56,Meets
+492370,8,H,,10,100,Masters,29.0,60.0,Meets,21,44,Appr
+492582,8,H,,10,100,Masters,27.0,56.0,Meets,30,63,Meets
+497800,8,H,,10,100,Masters,40.0,83.0,Masters,29,60,Meets
+492625,8,H,,10,100,Masters,17.0,35.0,Not Met,19,40,Appr
+492744,8,H,,10,100,Masters,28.0,58.0,Meets,40,83,Masters
+558828,8,H,,10,100,Masters,36.0,75.0,Meets,28,58,Meets
+506877,8,H,,10,100,Masters,44.0,92.0,Masters,42,91,Masters
+554265,8,H,,10,100,Masters,39.0,81.0,Masters,34,74,Meets
+494629,8,H,Y,10,100,Masters,15.0,31.0,Not Met,21,44,Appr
+506646,8,B,,10,100,Masters,37.0,77.0,Masters,33,69,Meets
+510343,7,A,,10,100,Masters,39.0,85.0,Masters,42,91,Masters
+554088,8,H,,10,100,Masters,33.0,69.0,Meets,27,56,Meets
+508128,6,T,,13,100,Masters,35.0,81.0,Masters,32,80,Masters
+492696,8,H,Y,10,100,Masters,45.0,94.0,Masters,39,85,Masters
+491949,8,H,,10,100,Masters,41.0,85.0,Masters,36,78,Masters
+504015,6,H,,12,92,Masters,33.0,77.0,Meets,33,83,Masters
+503743,6,H,,12,92,Masters,39.0,91.0,Masters,36,90,Masters
+558989,6,W,,9,90,Masters,18.0,42.0,Appr,25,63,Meets
+553777,6,H,,9,90,Masters,18.0,42.0,Appr,21,53,Appr
+556135,6,H,,9,90,Masters,21.0,49.0,Appr,15,38,Appr
+538269,6,H,,9,90,Masters,19.0,44.0,Appr,21,53,Appr
+500101,7,H,,9,90,Masters,17.0,37.0,Not Met,17,37,Not Met
+524485,7,H,,9,90,Masters,11.0,24.0,Not Met,17,37,Not Met
+492456,8,H,,9,90,Masters,42.0,71.0,Masters,46,79,Masters
+506285,8,H,,9,90,Masters,48.0,81.0,Masters,52,90,Masters
+499257,8,H,,9,90,Masters,39.0,81.0,Masters,29,60,Meets
+491942,8,H,,9,90,Masters,25.0,52.0,Appr,28,58,Meets
+541805,8,H,,9,90,Masters,,,,36,75,Meets
+524326,8,H,,9,90,Masters,25.0,52.0,Appr,21,44,Appr
+491943,8,H,,9,90,Masters,35.0,73.0,Meets,27,56,Meets
+491811,8,H,,9,90,Masters,23.0,48.0,Appr,17,35,Not Met
+496991,8,H,,9,90,Masters,24.0,50.0,Appr,22,46,Appr
+500822,8,H,,9,90,Masters,36.0,75.0,Meets,26,54,Meets
+492462,8,H,,9,90,Masters,34.0,71.0,Meets,30,63,Meets
+554250,8,H,,9,90,Masters,25.0,52.0,Appr,17,35,Not Met
+502140,8,H,,9,90,Masters,25.0,52.0,Appr,24,50,Appr
+528024,8,H,,9,90,Masters,33.0,69.0,Meets,29,63,Meets
+558939,8,H,,9,90,Masters,31.0,65.0,Meets,35,73,Meets
+555960,8,H,,9,90,Masters,37.0,77.0,Masters,39,85,Masters
+492846,8,H,,9,90,Masters,34.0,71.0,Meets,27,59,Meets
+558032,6,B,,9,90,Masters,33.0,77.0,Meets,27,68,Meets
+524921,8,B,,9,90,Masters,44.0,75.0,Masters,53,91,Masters
+544594,8,B,,9,90,Masters,30.0,63.0,Meets,20,42,Appr
+543966,8,B,,9,90,Masters,26.0,54.0,Meets,25,52,Appr
+492232,8,H,,9,90,Masters,44.0,92.0,Masters,34,71,Meets
+492605,8,H,,9,90,Masters,39.0,81.0,Masters,32,70,Meets
+510121,6,B,,9,90,Masters,11.0,26.0,Not Met,11,28,Not Met
+550287,8,B,,9,90,Masters,37.0,77.0,Masters,29,60,Meets
+496008,7,H,Y,9,90,Masters,40.0,87.0,Masters,37,80,Meets
+504196,6,W,,11,85,Meets,22.0,51.0,Appr,27,68,Meets
+503736,6,H,,11,85,Meets,30.0,70.0,Meets,28,70,Meets
+503728,6,H,,11,85,Meets,36.0,84.0,Masters,36,90,Masters
+503741,6,H,,11,85,Meets,40.0,93.0,Masters,35,88,Masters
+504013,6,H,,11,85,Meets,37.0,86.0,Masters,39,98,Masters
+503757,6,H,,11,85,Meets,19.0,44.0,Appr,21,53,Appr
+498618,6,H,,11,85,Meets,33.0,77.0,Meets,31,78,Meets
+524611,6,H,,11,85,Meets,29.0,67.0,Meets,37,93,Masters
+504604,6,H,,11,85,Meets,23.0,53.0,Appr,32,80,Masters
+509961,6,H,Y,11,85,Meets,23.0,53.0,Appr,35,88,Masters
+503681,7,W,,8,80,Meets,4.0,9.0,Not Met,7,15,Not Met
+500868,8,W,,8,80,Meets,11.0,23.0,Not Met,11,23,Not Met
+497670,7,T,,8,80,Meets,21.0,46.0,Appr,29,63,Meets
+492286,8,T,Y,8,80,Meets,29.0,60.0,Meets,22,46,Appr
+506901,6,H,,8,80,Meets,16.0,37.0,Appr,19,48,Appr
+502856,6,H,Y,8,80,Meets,21.0,49.0,Appr,20,50,Appr
+524909,6,H,Y,8,80,Meets,15.0,35.0,Appr,14,35,Appr
+553775,6,H,,8,80,Meets,12.0,28.0,Not Met,14,35,Appr
+541636,6,H,,8,80,Meets,20.0,47.0,Appr,18,45,Appr
+560318,6,H,,8,80,Meets,19.0,44.0,Appr,24,60,Meets
+508483,6,H,Y,8,80,Meets,26.0,60.0,Meets,36,90,Masters
+554944,6,H,,8,80,Meets,20.0,47.0,Appr,19,48,Appr
+498765,7,H,,8,80,Meets,34.0,74.0,Meets,31,67,Meets
+497712,7,H,,8,80,Meets,41.0,89.0,Masters,20,43,Appr
+528137,7,H,Y,8,80,Meets,32.0,70.0,Meets,31,67,Meets
+498149,7,H,,8,80,Meets,23.0,50.0,Appr,23,50,Appr
+528138,8,H,,8,80,Meets,49.0,83.0,Masters,47,81,Masters
+492256,8,H,,8,80,Meets,40.0,68.0,Meets,42,72,Masters
+503759,8,H,,8,80,Meets,14.0,29.0,Not Met,14,29,Not Met
+522042,8,H,,8,80,Meets,40.0,83.0,Masters,35,73,Meets
+492556,8,H,,8,80,Meets,21.0,44.0,Appr,28,58,Meets
+541765,8,H,,8,80,Meets,17.0,35.0,Not Met,12,25,Not Met
+498266,8,H,,8,80,Meets,18.0,38.0,Appr,27,56,Meets
+530689,8,H,,8,80,Meets,27.0,56.0,Meets,31,65,Meets
+492493,8,H,,8,80,Meets,28.0,58.0,Meets,23,48,Appr
+501014,8,H,,8,80,Meets,19.0,40.0,Appr,17,35,Not Met
+524332,8,H,,8,80,Meets,23.0,48.0,Appr,23,48,Appr
+555881,8,H,,8,80,Meets,19.0,40.0,Appr,16,33,Not Met
+521744,8,H,,8,80,Meets,30.0,63.0,Meets,19,40,Appr
+492501,8,H,,8,80,Meets,27.0,56.0,Meets,30,63,Meets
+529991,8,H,,8,80,Meets,39.0,81.0,Masters,25,54,Meets
+492399,8,H,,8,80,Meets,42.0,88.0,Masters,41,89,Masters
+543972,6,B,,8,80,Meets,17.0,40.0,Appr,20,50,Appr
+511187,6,B,,8,80,Meets,25.0,58.0,Meets,25,63,Meets
+556300,6,B,Y,8,80,Meets,15.0,35.0,Appr,13,33,Not Met
+544801,7,B,Y,8,80,Meets,34.0,74.0,Meets,32,70,Meets
+492461,8,B,,8,80,Meets,24.0,50.0,Appr,15,31,Not Met
+500081,8,W,,8,80,Meets,38.0,79.0,Masters,33,72,Meets
+558859,6,H,,8,80,Meets,30.0,70.0,Meets,31,78,Masters
+497550,7,H,,8,80,Meets,24.0,52.0,Appr,25,54,Appr
+498598,7,H,,8,80,Meets,42.0,91.0,Masters,24,52,Appr
+492653,8,H,,8,80,Meets,12.0,25.0,Not Met,23,48,Appr
+498125,8,H,,8,80,Meets,40.0,83.0,Masters,32,67,Meets
+552443,8,H,,8,80,Meets,21.0,44.0,Appr,19,40,Appr
+504102,6,H,,10,77,Appr,28.0,65.0,Meets,37,93,Masters
+528028,6,H,,10,77,Appr,21.0,49.0,Appr,26,65,Meets
+504294,6,H,,10,77,Appr,34.0,79.0,Masters,32,80,Masters
+509461,6,H,,10,77,Appr,28.0,65.0,Meets,32,80,Masters
+503740,6,H,,10,77,Appr,34.0,79.0,Masters,39,98,Masters
+507583,6,B,,10,77,Appr,33.0,77.0,Meets,35,88,Masters
+505009,6,H,,10,77,Appr,35.0,81.0,Masters,37,93,Masters
+497347,7,T,,7,70,Appr,34.0,74.0,Meets,30,65,Meets
+504130,6,H,,7,70,Appr,17.0,40.0,Appr,17,43,Appr
+553634,6,H,,7,70,Appr,20.0,47.0,Appr,23,58,Meets
+509467,6,H,,7,70,Appr,23.0,53.0,Appr,21,53,Appr
+528637,6,H,Y,7,70,Appr,28.0,65.0,Meets,30,75,Meets
+555985,6,H,,7,70,Appr,27.0,63.0,Meets,26,65,Meets
+503725,6,H,,7,70,Appr,20.0,47.0,Appr,21,53,Appr
+503722,6,H,,7,70,Appr,14.0,33.0,Not Met,7,18,Not Met
+547035,6,H,,7,70,Appr,13.0,30.0,Not Met,13,33,Not Met
+503998,6,H,,7,70,Appr,12.0,28.0,Not Met,15,38,Appr
+497517,7,H,,7,70,Appr,14.0,30.0,Not Met,13,28,Not Met
+498101,7,H,,7,70,Appr,35.0,76.0,Meets,10,22,Not Met
+502990,7,H,,7,70,Appr,17.0,37.0,Not Met,22,48,Appr
+555974,7,H,,7,70,Appr,14.0,30.0,Not Met,7,15,Not Met
+503683,7,H,,7,70,Appr,31.0,67.0,Meets,16,35,Not Met
+503700,7,H,,7,70,Appr,24.0,52.0,Appr,14,30,Not Met
+497476,7,H,,7,70,Appr,7.0,15.0,Not Met,14,30,Not Met
+500133,7,H,,7,70,Appr,27.0,59.0,Meets,25,54,Appr
+497468,7,H,,7,70,Appr,31.0,67.0,Meets,25,54,Appr
+504913,7,H,,7,70,Appr,29.0,63.0,Meets,28,61,Meets
+492241,8,H,,7,70,Appr,26.0,54.0,Meets,19,40,Appr
+491993,8,H,,7,70,Appr,27.0,56.0,Meets,18,38,Appr
+492485,8,H,,7,70,Appr,17.0,35.0,Not Met,22,46,Appr
+492059,8,H,,7,70,Appr,27.0,56.0,Meets,26,54,Meets
+492139,8,H,,7,70,Appr,22.0,46.0,Appr,18,38,Appr
+510690,8,H,,7,70,Appr,30.0,63.0,Meets,35,73,Meets
+552060,8,H,,7,70,Appr,28.0,58.0,Meets,19,40,Appr
+527881,8,H,,7,70,Appr,27.0,56.0,Meets,22,46,Appr
+544401,8,H,,7,70,Appr,24.0,50.0,Appr,25,52,Appr
+554580,8,H,,7,70,Appr,14.0,29.0,Not Met,14,29,Not Met
+498534,8,H,,7,70,Appr,32.0,67.0,Meets,40,83,Masters
+492713,8,H,,7,70,Appr,28.0,58.0,Meets,26,54,Meets
+492588,8,H,,7,70,Appr,36.0,75.0,Meets,22,46,Appr
+557875,6,B,,7,70,Appr,25.0,58.0,Meets,24,60,Meets
+524336,7,B,,7,70,Appr,24.0,52.0,Appr,29,63,Meets
+528156,8,B,,7,70,Appr,22.0,46.0,Appr,20,42,Appr
+544509,8,B,,7,70,Appr,34.0,71.0,Meets,41,85,Masters
+550960,8,B,,7,70,Appr,36.0,75.0,Meets,21,44,Appr
+492655,8,B,,7,70,Appr,20.0,42.0,Appr,18,38,Appr
+546559,8,B,,7,70,Appr,21.0,44.0,Appr,19,40,Appr
+554519,8,B,,7,70,Appr,25.0,52.0,Appr,22,46,Appr
+499654,7,H,,7,70,Appr,23.0,50.0,Appr,15,33,Not Met
+550261,8,H,,7,70,Appr,42.0,88.0,Masters,27,56,Meets
+492603,8,H,,7,70,Appr,33.0,69.0,Meets,19,40,Appr
+554605,7,W,,7,70,Appr,26.0,57.0,Appr,22,48,Appr
+554838,6,H,,9,69,Not Met,10.0,23.0,Not Met,12,30,Not Met
+527422,6,H,,9,69,Not Met,25.0,58.0,Meets,23,58,Meets
+504170,6,H,,9,69,Not Met,22.0,51.0,Appr,23,58,Meets
+554490,6,H,,9,69,Not Met,22.0,51.0,Appr,25,63,Meets
+527420,6,H,,9,69,Not Met,19.0,44.0,Appr,23,58,Meets
+504426,6,H,,9,69,Not Met,27.0,63.0,Meets,28,70,Meets
+510062,6,W,,9,69,Not Met,31.0,72.0,Meets,31,78,Meets
+504287,6,H,,9,69,Not Met,24.0,56.0,Meets,30,75,Meets
+510819,6,W,,8,62,Not Met,20.0,47.0,Appr,22,55,Appr
+505396,6,H,,8,62,Not Met,14.0,33.0,Not Met,13,33,Not Met
+503742,6,H,,8,62,Not Met,20.0,47.0,Appr,25,63,Meets
+541972,6,H,,8,62,Not Met,20.0,47.0,Appr,21,53,Appr
+506681,6,W,,6,60,Not Met,16.0,37.0,Appr,21,53,Appr
+503997,6,T,,6,60,Not Met,20.0,47.0,Appr,20,50,Appr
+555287,7,T,,6,60,Not Met,24.0,52.0,Appr,22,48,Appr
+557383,6,H,,6,60,Not Met,18.0,42.0,Appr,15,38,Appr
+510068,6,H,,6,60,Not Met,19.0,44.0,Appr,17,43,Appr
+553721,6,H,,6,60,Not Met,28.0,65.0,Meets,12,30,Not Met
+504060,6,H,,6,60,Not Met,13.0,30.0,Not Met,18,45,Appr
+503714,6,H,,6,60,Not Met,22.0,51.0,Appr,23,58,Meets
+538638,6,H,Y,6,60,Not Met,9.0,21.0,Not Met,18,45,Appr
+559096,6,H,,6,60,Not Met,16.0,37.0,Appr,21,53,Appr
+556742,6,H,,6,60,Not Met,11.0,26.0,Not Met,14,35,Appr
+504684,6,H,Y,6,60,Not Met,14.0,33.0,Not Met,22,55,Appr
+500481,7,H,,6,60,Not Met,48.0,81.0,Masters,41,71,Masters
+499701,7,H,,6,60,Not Met,22.0,48.0,Appr,21,46,Appr
+500601,7,H,,6,60,Not Met,19.0,41.0,Not Met,18,39,Not Met
+498605,7,H,,6,60,Not Met,23.0,50.0,Appr,16,35,Not Met
+554897,7,H,,6,60,Not Met,33.0,72.0,Meets,32,70,Meets
+503850,7,H,,6,60,Not Met,37.0,80.0,Meets,26,57,Appr
+492109,8,H,,6,60,Not Met,28.0,58.0,Meets,21,44,Appr
+492521,8,H,,6,60,Not Met,14.0,29.0,Not Met,19,40,Appr
+504222,8,H,,6,60,Not Met,15.0,31.0,Not Met,16,33,Not Met
+530228,8,H,,6,60,Not Met,32.0,67.0,Meets,31,65,Meets
+542797,8,H,,6,60,Not Met,34.0,71.0,Meets,27,56,Meets
+491797,8,H,,6,60,Not Met,13.0,27.0,Not Met,13,27,Not Met
+498118,8,H,,6,60,Not Met,26.0,54.0,Meets,19,40,Appr
+559791,8,H,,6,60,Not Met,15.0,31.0,Not Met,16,33,Not Met
+511893,8,H,,6,60,Not Met,31.0,65.0,Meets,28,58,Meets
+547158,8,H,Y,6,60,Not Met,16.0,33.0,Not Met,26,54,Meets
+538261,8,H,Y,6,60,Not Met,34.0,71.0,Meets,15,33,Not Met
+506933,6,B,Y,6,60,Not Met,7.0,16.0,Not Met,8,20,Not Met
+505664,7,B,Y,6,60,Not Met,10.0,22.0,Not Met,11,24,Not Met
+505773,7,B,,6,60,Not Met,14.0,30.0,Not Met,19,41,Not Met
+492218,8,B,,6,60,Not Met,36.0,75.0,Meets,28,58,Meets
+559437,8,B,,6,60,Not Met,30.0,63.0,Meets,20,42,Appr
+559294,6,H,,6,60,Not Met,16.0,37.0,Appr,19,48,Appr
+558995,7,H,,6,60,Not Met,19.0,41.0,Not Met,14,30,Not Met
+498599,7,H,,6,60,Not Met,23.0,50.0,Appr,28,61,Meets
+551163,6,B,Y,6,60,Not Met,20.0,47.0,Appr,25,63,Meets
+492366,8,H,,6,60,Not Met,32.0,67.0,Meets,29,60,Meets
+507102,8,B,,6,60,Not Met,19.0,40.0,Appr,20,42,Appr
+503748,6,H,,7,54,Not Met,19.0,44.0,Appr,18,45,Appr
+538078,6,H,,7,54,Not Met,19.0,44.0,Appr,22,55,Appr
+504637,7,W,,5,50,Not Met,18.0,39.0,Not Met,12,26,Not Met
+505551,7,W,,5,50,Not Met,10.0,22.0,Not Met,11,24,Not Met
+497392,7,W,,5,50,Not Met,25.0,54.0,Appr,28,61,Meets
+521050,6,H,Y,5,50,Not Met,22.0,51.0,Appr,20,50,Appr
+509480,6,H,,5,50,Not Met,11.0,26.0,Not Met,10,25,Not Met
+544494,6,H,,5,50,Not Met,32.0,74.0,Meets,12,30,Not Met
+504430,6,H,,5,50,Not Met,15.0,35.0,Appr,17,43,Appr
+511887,6,H,,5,50,Not Met,11.0,26.0,Not Met,16,40,Appr
+505068,6,H,Y,5,50,Not Met,13.0,30.0,Not Met,12,30,Not Met
+506338,6,H,Y,5,50,Not Met,27.0,63.0,Meets,11,28,Not Met
+507028,7,H,,5,50,Not Met,9.0,20.0,Not Met,12,26,Not Met
+497908,7,H,,5,50,Not Met,12.0,26.0,Not Met,12,26,Not Met
+498486,7,H,,5,50,Not Met,23.0,50.0,Appr,13,28,Not Met
+498224,7,H,,5,50,Not Met,14.0,30.0,Not Met,15,33,Not Met
+501203,7,H,,5,50,Not Met,24.0,52.0,Appr,21,46,Appr
+553641,7,H,,5,50,Not Met,19.0,41.0,Not Met,23,50,Appr
+507127,7,H,,5,50,Not Met,18.0,39.0,Not Met,17,37,Not Met
+498982,7,H,Y,5,50,Not Met,7.0,15.0,Not Met,17,37,Not Met
+507149,8,H,,5,50,Not Met,25.0,52.0,Appr,17,35,Not Met
+500005,8,H,,5,50,Not Met,27.0,56.0,Meets,23,48,Appr
+558816,8,H,,5,50,Not Met,22.0,46.0,Appr,19,40,Appr
+492080,8,H,,5,50,Not Met,25.0,52.0,Appr,31,65,Meets
+554609,8,H,,5,50,Not Met,18.0,38.0,Appr,19,40,Appr
+554059,8,H,,5,50,Not Met,20.0,42.0,Appr,20,42,Appr
+495886,8,H,,5,50,Not Met,35.0,73.0,Meets,28,61,Meets
+491875,8,H,Y,5,50,Not Met,22.0,46.0,Appr,28,58,Meets
+504334,6,B,,5,50,Not Met,9.0,21.0,Not Met,10,25,Not Met
+554057,7,B,,5,50,Not Met,24.0,52.0,Appr,22,48,Appr
+504591,7,B,,5,50,Not Met,20.0,43.0,Appr,24,52,Appr
+544882,7,B,,5,50,Not Met,23.0,50.0,Appr,15,33,Not Met
+492672,8,B,,5,50,Not Met,44.0,75.0,Masters,42,72,Masters
+492720,8,B,,5,50,Not Met,39.0,81.0,Masters,39,81,Masters
+553982,8,B,,5,50,Not Met,34.0,71.0,Meets,30,63,Meets
+498399,7,T,,5,50,Not Met,20.0,43.0,Appr,15,33,Not Met
+501871,7,H,,5,50,Not Met,17.0,37.0,Not Met,11,24,Not Met
+505745,7,H,,5,50,Not Met,15.0,33.0,Not Met,18,39,Not Met
+556767,7,H,,5,50,Not Met,14.0,30.0,Not Met,12,26,Not Met
+498337,7,H,Y,5,50,Not Met,15.0,33.0,Not Met,21,46,Appr
+554597,6,B,,5,50,Not Met,16.0,37.0,Appr,22,55,Appr
+486803,8,B,Y,5,50,Not Met,16.0,33.0,Not Met,14,29,Not Met
+549740,8,W,,5,50,Not Met,11.0,23.0,Not Met,18,38,Appr
+498065,8,H,,5,50,Not Met,18.0,38.0,Appr,18,38,Appr
+556745,8,H,,5,50,Not Met,12.0,25.0,Not Met,19,40,Appr
+495118,8,B,Y,5,50,Not Met,28.0,58.0,Meets,11,23,Not Met
+510650,8,T,,4,40,Not Met,30.0,63.0,Meets,19,40,Appr
+544524,8,T,,4,40,Not Met,22.0,46.0,Appr,22,46,Appr
+509256,6,H,,4,40,Not Met,15.0,35.0,Appr,15,38,Appr
+527538,6,H,,4,40,Not Met,19.0,44.0,Appr,22,55,Appr
+549701,6,H,,4,40,Not Met,17.0,40.0,Appr,17,43,Appr
+556672,6,H,,4,40,Not Met,,,,11,28,Not Met
+560139,6,H,,4,40,Not Met,13.0,30.0,Not Met,16,40,Appr
+498658,6,H,Y,4,40,Not Met,22.0,51.0,Appr,14,35,Appr
+498573,7,H,,4,40,Not Met,23.0,50.0,Appr,20,43,Appr
+560319,7,H,,4,40,Not Met,21.0,46.0,Appr,13,28,Not Met
+544282,7,H,,4,40,Not Met,24.0,52.0,Appr,11,24,Not Met
+497680,7,H,,4,40,Not Met,23.0,50.0,Appr,12,26,Not Met
+551055,7,H,,4,40,Not Met,11.0,24.0,Not Met,22,48,Appr
+491899,7,H,,4,40,Not Met,16.0,35.0,Not Met,9,20,Not Met
+555605,7,H,,4,40,Not Met,8.0,17.0,Not Met,11,24,Not Met
+505136,7,H,,4,40,Not Met,12.0,26.0,Not Met,11,24,Not Met
+506467,7,H,,4,40,Not Met,14.0,30.0,Not Met,18,39,Not Met
+490216,7,H,,4,40,Not Met,12.0,26.0,Not Met,11,24,Not Met
+506514,7,H,,4,40,Not Met,19.0,41.0,Not Met,14,30,Not Met
+498388,7,H,Y,4,40,Not Met,11.0,24.0,Not Met,8,17,Not Met
+504508,7,H,Y,4,40,Not Met,14.0,30.0,Not Met,10,22,Not Met
+492127,8,H,,4,40,Not Met,,,,16,33,Not Met
+557109,8,H,,4,40,Not Met,14.0,29.0,Not Met,10,21,Not Met
+498157,8,H,,4,40,Not Met,19.0,40.0,Appr,15,31,Not Met
+556852,8,H,,4,40,Not Met,18.0,38.0,Appr,38,79,Masters
+556716,8,H,,4,40,Not Met,19.0,40.0,Appr,17,35,Not Met
+554520,8,H,,4,40,Not Met,18.0,38.0,Appr,15,31,Not Met
+505135,6,B,Y,4,40,Not Met,19.0,44.0,Appr,12,30,Not Met
+524920,6,B,Y,4,40,Not Met,20.0,47.0,Appr,21,53,Appr
+492021,7,B,,4,40,Not Met,18.0,39.0,Not Met,9,20,Not Met
+555322,7,B,,4,40,Not Met,22.0,48.0,Appr,19,41,Not Met
+545275,8,B,Y,4,40,Not Met,20.0,42.0,Appr,9,19,Not Met
+560279,6,H,,4,40,Not Met,17.0,40.0,Appr,19,48,Appr
+498209,8,H,,4,40,Not Met,22.0,46.0,Appr,17,35,Not Met
+553884,6,B,,4,40,Not Met,11.0,26.0,Not Met,12,30,Not Met
+557567,6,H,,4,40,Not Met,38.0,88.0,Masters,13,33,Not Met
+511378,6,H,Y,4,40,Not Met,10.0,23.0,Not Met,17,43,Appr
+507044,6,H,,4,40,Not Met,14.0,33.0,Not Met,16,40,Appr
+558367,6,H,,4,40,Not Met,16.0,37.0,Appr,21,53,Appr
+554973,6,B,,4,40,Not Met,17.0,40.0,Appr,23,58,Meets
+560512,8,B,,4,40,Not Met,12.0,25.0,Not Met,15,31,Not Met
+506688,6,W,Y,3,30,Not Met,11.0,26.0,Not Met,9,23,Not Met
+524074,7,W,Y,3,30,Not Met,12.0,26.0,Not Met,12,26,Not Met
+556823,6,H,,3,30,Not Met,12.0,28.0,Not Met,13,33,Not Met
+560237,6,H,,3,30,Not Met,11.0,26.0,Not Met,8,20,Not Met
+553773,6,H,,3,30,Not Met,31.0,72.0,Meets,14,35,Appr
+527506,6,H,,3,30,Not Met,10.0,23.0,Not Met,8,20,Not Met
+555697,7,H,,3,30,Not Met,13.0,28.0,Not Met,14,30,Not Met
+499669,7,H,Y,3,30,Not Met,30.0,65.0,Meets,18,39,Not Met
+557112,7,H,,3,30,Not Met,33.0,72.0,Meets,29,63,Meets
+554578,7,H,,3,30,Not Met,15.0,33.0,Not Met,10,22,Not Met
+560095,7,H,,3,30,Not Met,29.0,63.0,Meets,24,52,Appr
+501100,7,H,,3,30,Not Met,13.0,28.0,Not Met,18,39,Not Met
+497652,7,H,,3,30,Not Met,17.0,37.0,Not Met,18,39,Not Met
+500988,7,H,,3,30,Not Met,39.0,85.0,Masters,14,30,Not Met
+552056,7,H,,3,30,Not Met,22.0,48.0,Appr,12,26,Not Met
+547571,7,H,,3,30,Not Met,35.0,76.0,Meets,18,39,Not Met
+499317,7,H,,3,30,Not Met,22.0,48.0,Appr,24,52,Appr
+559501,7,H,,3,30,Not Met,14.0,30.0,Not Met,11,24,Not Met
+497739,7,H,,3,30,Not Met,15.0,33.0,Not Met,11,24,Not Met
+503707,7,H,,3,30,Not Met,9.0,20.0,Not Met,22,48,Appr
+530450,7,H,,3,30,Not Met,22.0,48.0,Appr,21,46,Appr
+497336,7,H,,3,30,Not Met,12.0,26.0,Not Met,21,46,Appr
+491539,7,H,Y,3,30,Not Met,,,,13,28,Not Met
+502886,7,H,Y,3,30,Not Met,17.0,37.0,Not Met,7,15,Not Met
+504706,7,H,Y,3,30,Not Met,21.0,46.0,Appr,24,52,Appr
+497907,8,H,,3,30,Not Met,14.0,29.0,Not Met,18,38,Appr
+550440,8,H,,3,30,Not Met,9.0,19.0,Not Met,12,25,Not Met
+497864,8,H,Y,3,30,Not Met,16.0,33.0,Not Met,17,35,Not Met
+492654,8,H,Y,3,30,Not Met,9.0,19.0,Not Met,12,25,Not Met
+559438,6,B,,3,30,Not Met,12.0,28.0,Not Met,9,23,Not Met
+553946,7,B,,3,30,Not Met,11.0,24.0,Not Met,11,24,Not Met
+500267,7,B,,3,30,Not Met,8.0,17.0,Not Met,12,26,Not Met
+522566,7,B,,3,30,Not Met,24.0,52.0,Appr,27,59,Meets
+497590,7,B,,3,30,Not Met,12.0,26.0,Not Met,11,24,Not Met
+554252,7,B,Y,3,30,Not Met,11.0,24.0,Not Met,17,37,Not Met
+521984,7,B,Y,3,30,Not Met,25.0,54.0,Appr,23,50,Appr
+560486,8,B,,3,30,Not Met,8.0,17.0,Not Met,15,31,Not Met
+554602,8,B,,3,30,Not Met,8.0,17.0,Not Met,19,40,Appr
+524783,8,H,Y,3,30,Not Met,12.0,25.0,Not Met,12,25,Not Met
+498325,8,W,,3,30,Not Met,15.0,31.0,Not Met,13,27,Not Met
+560501,6,H,,3,30,Not Met,7.0,16.0,Not Met,14,35,Appr
+503749,6,H,,3,30,Not Met,15.0,35.0,Appr,16,40,Appr
+559626,6,H,,3,30,Not Met,11.0,26.0,Not Met,9,23,Not Met
+526058,6,H,Y,3,30,Not Met,13.0,30.0,Not Met,9,23,Not Met
+558857,7,H,,3,30,Not Met,7.0,15.0,Not Met,13,28,Not Met
+557379,8,H,,3,30,Not Met,13.0,27.0,Not Met,17,35,Not Met
+559806,7,W,,2,20,Not Met,12.0,26.0,Not Met,13,28,Not Met
+554351,8,W,Y,2,20,Not Met,32.0,67.0,Meets,24,50,Appr
+503706,6,H,,2,20,Not Met,10.0,23.0,Not Met,10,25,Not Met
+497139,6,H,Y,2,20,Not Met,12.0,28.0,Not Met,6,15,Not Met
+559650,6,H,,2,20,Not Met,15.0,35.0,Appr,14,35,Appr
+501779,6,H,,2,20,Not Met,35.0,81.0,Masters,34,85,Masters
+503836,7,H,,2,20,Not Met,15.0,33.0,Not Met,9,20,Not Met
+556267,7,H,,2,20,Not Met,8.0,17.0,Not Met,11,24,Not Met
+495232,7,H,,2,20,Not Met,12.0,26.0,Not Met,13,28,Not Met
+497263,7,H,,2,20,Not Met,10.0,22.0,Not Met,15,33,Not Met
+497899,7,H,,2,20,Not Met,9.0,20.0,Not Met,11,24,Not Met
+499184,7,H,,2,20,Not Met,16.0,35.0,Not Met,13,28,Not Met
+556632,7,H,,2,20,Not Met,12.0,26.0,Not Met,9,20,Not Met
+522517,7,H,,2,20,Not Met,31.0,67.0,Meets,19,41,Not Met
+497292,7,H,,2,20,Not Met,18.0,39.0,Not Met,14,30,Not Met
+497815,7,H,,2,20,Not Met,14.0,30.0,Not Met,19,41,Not Met
+524961,7,H,,2,20,Not Met,,,,19,41,Not Met
+559297,7,H,,2,20,Not Met,43.0,93.0,Masters,16,35,Not Met
+554084,7,H,,2,20,Not Met,14.0,30.0,Not Met,11,24,Not Met
+499974,7,H,,2,20,Not Met,6.0,13.0,Not Met,9,20,Not Met
+559456,7,H,,2,20,Not Met,23.0,50.0,Appr,10,22,Not Met
+504908,7,H,,2,20,Not Met,15.0,33.0,Not Met,8,17,Not Met
+547234,7,H,Y,2,20,Not Met,8.0,17.0,Not Met,10,22,Not Met
+492054,8,H,Y,2,20,Not Met,18.0,38.0,Appr,10,21,Not Met
+557111,8,H,,2,20,Not Met,11.0,23.0,Not Met,31,65,Meets
+559073,8,H,,2,20,Not Met,9.0,19.0,Not Met,18,38,Appr
+559108,8,H,,2,20,Not Met,14.0,29.0,Not Met,8,17,Not Met
+559440,8,H,,2,20,Not Met,13.0,27.0,Not Met,14,29,Not Met
+507448,8,H,Y,2,20,Not Met,14.0,29.0,Not Met,11,23,Not Met
+506198,7,B,,2,20,Not Met,22.0,48.0,Appr,17,37,Not Met
+559780,7,B,,2,20,Not Met,10.0,22.0,Not Met,11,24,Not Met
+497782,7,B,,2,20,Not Met,21.0,46.0,Appr,23,50,Appr
+498671,7,H,,2,20,Not Met,10.0,22.0,Not Met,10,22,Not Met
+501946,7,B,,2,20,Not Met,16.0,35.0,Not Met,17,37,Not Met
+527918,7,H,Y,2,20,Not Met,11.0,24.0,Not Met,9,20,Not Met
+505065,7,W,,1,10,Not Met,13.0,28.0,Not Met,10,22,Not Met
+493355,8,W,,1,10,Not Met,,,,15,31,Not Met
+508119,6,H,Y,1,10,Not Met,7.0,16.0,Not Met,6,15,Not Met
+556340,7,H,,1,10,Not Met,,,,13,28,Not Met
+550583,7,H,,1,10,Not Met,10.0,22.0,Not Met,12,26,Not Met
+557110,7,H,,1,10,Not Met,9.0,20.0,Not Met,10,22,Not Met
+557873,7,H,,1,10,Not Met,12.0,26.0,Not Met,11,24,Not Met
+505586,7,H,,1,10,Not Met,15.0,33.0,Not Met,20,43,Appr
+559967,7,H,,1,10,Not Met,31.0,67.0,Meets,17,37,Not Met
+539342,7,H,,1,10,Not Met,23.0,50.0,Appr,13,28,Not Met
+498096,7,H,Y,1,10,Not Met,16.0,35.0,Not Met,22,48,Appr
+541499,7,H,Y,1,10,Not Met,10.0,22.0,Not Met,12,26,Not Met
+491900,8,H,Y,1,10,Not Met,8.0,17.0,Not Met,10,21,Not Met
+507583,6,B,,1,10,Not Met,33.0,77.0,Meets,35,88,Masters
+559846,7,B,,1,10,Not Met,16.0,35.0,Not Met,11,24,Not Met
+521361,7,B,Y,1,10,Not Met,8.0,17.0,Not Met,10,22,Not Met
+504830,7,B,Y,1,10,Not Met,10.0,22.0,Not Met,10,22,Not Met
+508969,6,P,,1,10,Not Met,11.0,26.0,Not Met,19,48,Appr
+503360,7,H,,1,10,Not Met,13.0,28.0,Not Met,14,30,Not Met
+501709,7,H,,1,10,Not Met,33.0,72.0,Meets,8,17,Not Met
+524284,7,B,,1,10,Not Met,15.0,33.0,Not Met,16,35,Not Met
+527856,8,B,Y,1,10,Not Met,16.0,33.0,Not Met,11,23,Not Met
+511277,6,H,Y,0,0,Not Met,9.0,21.0,Not Met,12,30,Not Met
+554518,8,H,,0,0,Not Met,15.0,31.0,Not Met,9,19,Not Met
+542256,8,H,Y,0,0,Not Met,8.0,17.0,Not Met,11,23,Not Met
+497362,7,B,,0,0,Not Met,11.0,24.0,Not Met,19,41,Not Met
+521367,7,B,,0,0,Not Met,10.0,22.0,Not Met,9,20,Not Met
+556134,7,B,,0,0,Not Met,12.0,26.0,Not Met,9,20,Not Met
