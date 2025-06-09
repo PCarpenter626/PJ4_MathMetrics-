@@ -38,6 +38,10 @@ These calculations were the foundations of the visuals that are being displayed 
 https://sqlitebrowser.org/dl/
 
 # Step 5- Tableau
+The free version of Tableau must be installed. 
+Tableau was used to convert the "School_Data.csv" file into multiple visuals. 
+Workbooks, Dashboards and the Story features were used in this Project. 
+https://www.tableau.com/
 
 # Step 6- Google Slides
 
