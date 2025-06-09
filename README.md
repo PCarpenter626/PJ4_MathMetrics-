@@ -1,7 +1,8 @@
 # PJ4_MathMetrics
 
 This project collects the quarterly Math test scores of the students at a Texas Middle School. 
-From these scores, an analysis will be performed on the students primarily focusing on the achievement levels of two of the schools sub-populations, Black and Hispanic students. At the end of this analysis, we will be able to determine which Sub-Population performed the best and use this data to plan for the next steps for each Sub-Population as they prepare for their State Assessment. 
+From these scores, an analysis will be performed primarily focusing on the achievement levels of two of the schools sub-populations, Black and Hispanic students. 
+At the end of this analysis, we will be able to determine which Sub-Population performed the best on their quarterly tests and use this data to predict how each Sub-Population will preform on their State Assessment. 
 
 # Prerequisites 
 Requirements for the software and other tools to run:
