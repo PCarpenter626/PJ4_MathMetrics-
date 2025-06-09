@@ -24,13 +24,18 @@ This data was then exported into CSV Excel files for usage in Jupyter Notebook.
 
 # Step 2- Anaconda Navigator  
 Anaconda Navigator must be downloaded and installed to be able to access the Jupyter Notebook option. 
+https://www.anaconda.com/products/navigator
 
 # Step 3- Jupyter Notebook
 Once Anaconda is correctly downloaded and installed, either create your own or use tbe base (root) environment to download and launch the Jupyter Notebook. 
 This program launches in your default internet browser and once lauched, you can create a new "document" using the Python Programming Language. 
-Python Programming language was then used to import the CSV files, convert those CSV files into Dataframes, remove the null value rows and columns, remove the columns not needed for this student, and finally merge the three CSV files into one final cleaned Dataframe that is then exported as a new CSV file. 
+Python Programming language was then used to import the CSV files, convert those CSV files into Dataframes, remove the null value rows and columns, remove the columns not needed for this student, and finally merge the three CSV files into one final cleaned Dataframe that is then exported as a new CSV file named "School_Data.csv". 
 
 # Step 4- DB Browser
+DB Browser must be downloaded and installed. 
+A new Database was created and the "School_Data.csv" file was imported and used the query calculations on the data. 
+These calculations were the foundations of the visuals that are being displayed in Tableau. 
+https://sqlitebrowser.org/dl/
 
 # Step 5- Tableau
 
