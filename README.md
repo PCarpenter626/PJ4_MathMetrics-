@@ -44,11 +44,14 @@ Workbooks, Dashboards and the Story features were used in this Project.
 https://www.tableau.com/
 
 # Step 6- Google Slides
+A google slide presentation was created to combine and showcase the steps of the project from beginning to the end. 
+https://workspace.google.com/products/slides/
+
 
 # Contributors
 - Students of DATA @ Adams Middle School in Grand Prairie, TX
+- Teachers of DATA @ Adams Middle School in Grand Prairie, TX
 - Math Test writers of the Grand Prairie ISD
-- Patrick Carpenter
 
 # Authors
 - Patrick M Carpenter
